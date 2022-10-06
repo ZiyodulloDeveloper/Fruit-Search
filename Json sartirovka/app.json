@@ -1,0 +1,81 @@
+
+[
+    {
+        "id": 1,
+        "title":"Olma",
+        "url": "http://geografiya.uz/uploads/posts/2019-05/1557333629_olma.jpg",
+        "p":"Olma – raʼnodoshlarga oilasiga mansub, barg to‘kuvchi daraxtlar yoki butalar turkumi, urug‘li meva daraxti. O‘zbekistonda yovvoyi olma turlari, asosan, Toshkent viloyatidagi Bo‘stonliq, Parkent, Ohangaron tumanlarining tog‘li hududlarida uchraydi."
+      },
+      {
+        "id": 2,
+        "title": "Nok",
+        "url": "https://avitsenna.uz/wp-content/uploads/2015/08/nok.jpeg",
+        "p":"Raʼnoguldoshlar oilasiga mansub barg to‘kuvchi daraxtlar yoki butalar turkumi, mevali daraxt. Dunyo bo‘yicha urug‘li mevalar ichida (ekilgan maydoni jihatdan olmadan keyin) 2-o‘rinda turadi. Nok daraxti 50-300 yilgacha yashaydi."
+      },
+      {
+        
+        "id": 3,
+        "title": "Pomidor",
+       "url":"https://m.dom-eda.com/uploads/images/catalog/item/c6ebcf64ba/e87b941b85_500.jpg",
+       "p":"Pomidor – ituzumdoshlar oilasiga mansub o‘simlik. Vatani Janubiy Amerikaning Ekvador va Peru qismi. O‘zbekistonda sabzavot ekinlari ichida pomidor eng ko‘p ekiladi va jami sabzavot yetishtiriladigan maydonlarning 40% dan ortig‘ini egallaydi."
+      },
+      {
+        
+        "id": 4,
+        "title": "Sabzi",
+        "url": "http://dostavo4ka.uz/upload-file/2021/05/05/3157/1ec2d719-b175-43fc-9c0f-edcf63e55e5f.jpg",
+        "p":""
+       
+      },
+      {
+        
+        "id": 5,
+        "title": "Bodring",
+        "url": "https://zamin.uz/uploads/posts/2018-05/1527448489_bodring.jpg"
+    
+      },
+      {
+       
+        "id": 6,
+        "title": "Shaftoli",
+        "url": "http://geografiya.uz/uploads/posts/2015-05/thumbs/1430618381_shaftoli-2.jpg"
+      
+      },
+      {
+        "albumId": 1,
+        "id": 7,
+        "title": "Kartoshka",
+        "url": "http://cdn.beta.qalampir.uz/uploads/6m/m_bG6o1O7mY0OlaHPh5t1w5pQomVbh4X.jpg"
+      },
+      {
+        "albumId": 1,
+        "id": 8,
+        "title": "O'rik",
+        "url": "https://st4.depositphotos.com/1020804/24007/i/600/depositphotos_240071152-stock-photo-ripe-apricots-on-a-small.jpg"
+      },
+      {
+        "albumId": 1,
+        "id": 9,
+        "title": "Xurmo",
+        "url": "https://avitsenna.uz/wp-content/uploads/2017/12/xurmo-min.jpg"
+      },
+      {
+        "albumId": 1,
+        "id": 10,
+        "title": "Uzum",
+        "url": "https://avitsenna.uz/wp-content/uploads/2014/12/687474703a2f2f7777772e63726f7374692e72752f7061747465726e732f30302f30302f39662f393862396236323966312fd0b2d0b8d0bdd0bed0b3d180d0b0d0b42d312e6a7067.jpg"
+       
+      },
+      {
+        "albumId": 1,
+        "id": 11,
+        "title": "Gilos",
+        "url": "https://yukber.uz/image/cache/catalog/product/YK3425/3425-700x700.jpg"
+      },
+      {
+        "albumId": 1,
+        "id": 12,
+        "title": "Anjir",
+        "url": "https://d1z88p83zuviay.cloudfront.net/ProductVariantImages/4fe80192-73ac-49ce-a17c-2b0ad56afe0d.JPG"
+      }
+]

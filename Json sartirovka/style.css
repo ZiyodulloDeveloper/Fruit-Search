@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+body{
+    width: 100%;
+}
+.input{
+    height: 40px;
+    color: black;
+    width:400px;
+    margin-top: 2%;
+    border:1px solid gray; 
+    padding-left:20px;
+    transition: 0.5s ease-in-out;
+    color: black;
+    font-size: 17px;
+   
+}
+.inputt{
+    height: 40px;
+    color: black;
+    width:400px;
+    margin-top: 2%;
+    border:1px solid gray; 
+    padding-left:20px;
+    transition: 0.5s ease-in-out;
+    color: black;
+    font-size: 17px;
+}
+.inputt:hover{
+    transform: scale(103%);
+    box-shadow: 5px 5px 5px rgb(90, 89, 89);
+   
+}
+.input:hover{
+    transform: scale(103%);
+    box-shadow: 5px 5px 5px rgb(90, 89, 89);
+   
+}
